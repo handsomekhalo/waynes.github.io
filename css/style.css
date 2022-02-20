@@ -618,6 +618,17 @@ section{
 }
 
 
+.img-sec{
+ display:flex;
+ flex-direction:row;
+ flex-wrap:wrap;
+ margin-top: 20px;
+
+}
+
+.img-sec img{
+    width: 100%;
+}
 
 @media (max-width:991px){
 
